@@ -20,7 +20,14 @@ body, html {
   margin-left: 20px;
 }
 
-
+@media screen and (max-width: 768px) {
+	.gd-winlogo{
+		width: 100px;
+		height: 50px;
+		margin-top: 10px;
+		margin-left: 20px;
+	}
+}
 
 
 h2 {
