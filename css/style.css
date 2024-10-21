@@ -324,10 +324,13 @@ header .intro-text {
 /* Portfolio Section */
 #portfolio {
 	padding: 100px 0;
-	background: #f6f6f6;
+	
 }
 .portfolio-item {
-	margin: 15px 0;
+	margin: 10px 10px 20px;
+	display: block;
+	width: 100%;
+	height: auto;
 }
 .portfolio-item .hover-bg {
 	overflow: hidden;
@@ -530,14 +533,7 @@ color: #777;
 
 @media (max-width: 768px) {
 #about img {
-	margin: 50px;
-
+	margin: 50px 0;
+	
 }
-}
-
-@media screen and (max-width: 768px) {
-	body{
-		margin: auto;
-		scroll-behavior: auto;
-	}
 }
