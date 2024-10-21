@@ -538,5 +538,6 @@ color: #777;
 @media screen and (max-width: 768px) {
 	body{
 		margin: auto;
+		scroll-behavior: auto;
 	}
 }
