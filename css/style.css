@@ -530,7 +530,7 @@ color: #777;
 
 @media (max-width: 768px) {
 #about img {
-	margin:  0;
+	margin: 0 auto;
 
 }
 }
